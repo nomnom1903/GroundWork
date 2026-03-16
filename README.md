@@ -9,7 +9,7 @@
 
 AI can only automate what it knows.
 
-Today's AI networking tools — including Cisco's AI Canvas — know networking in general. They know BGP, OSPF, NXOS, ThousandEyes. What they don't know is *your* network: your device quirks, your unwritten operational constraints, the diagnostic patterns your senior engineers carry in their heads and never write down.
+Today's AI networking tools know networking in general. They know BGP, OSPF, NXOS, ThousandEyes. What they don't know is *your* network: your device quirks, your unwritten operational constraints, the diagnostic patterns your senior engineers carry in their heads and never write down.
 
 That gap is why AI in network operations stays stuck at "advice." It's why a technically correct recommendation still causes a 3-hour outage. It's why operators don't trust it to act.
 
